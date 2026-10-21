@@ -9,7 +9,7 @@ Project website for **DepState-JEPA: Learning Depth-Grounded State Representatio
 ## Contents
 
 - `index.html`: paper overview, authors, abstract, methodology, comparisons, demonstrations, ablations, and citation.
-- `style.css`: responsive academic project-page design, aligned with the PRISM project website.
+- `style.css`: responsive research-release design with a gradient wordmark, synchronized RGB/depth overview, sticky chapter navigation, and restrained violet accents.
 - `app.js`: spatial-result galleries, task/viewpoint/modality video selection, figure enlargement, and citation copying.
 - `assets/`: paper PDF, paper figures, institutional branding, and web-optimized robot demonstrations.
 - `citation.bib`: bibliographic record; update with the official venue/arXiv record when confirmed.
