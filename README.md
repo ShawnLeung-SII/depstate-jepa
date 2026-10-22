@@ -31,3 +31,5 @@ Institutional marks are used to identify author affiliations. Shandong Universit
 ## arXiv release
 
 Paper: https://arxiv.org/abs/2610.29246. PDF: https://arxiv.org/pdf/2610.29246. Visible and downloadable citations include the arXiv identifier. Code remains coming soon.
+
+Unpublished-paper resource policy: DepState-JEPA uses the arXiv abstract page as its sole paper entry; no separate Paper/PDF button is shown.
