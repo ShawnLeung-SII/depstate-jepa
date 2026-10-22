@@ -12,7 +12,7 @@ Project website for **DepState-JEPA: Learning Depth-Grounded State Representatio
 - `style.css`: responsive research-release design with a gradient wordmark, synchronized RGB/depth overview, sticky chapter navigation, and restrained violet accents.
 - `app.js`: spatial-result galleries, task/viewpoint/modality video selection, figure enlargement, and citation copying.
 - `assets/`: paper PDF, paper figures, institutional branding, and web-optimized robot demonstrations.
-- `citation.bib`: bibliographic record; update with the official venue/arXiv record when confirmed.
+- `citation.bib`: bibliographic record, including arXiv:2610.29246.
 
 ## Local preview
 
@@ -24,6 +24,10 @@ GitHub Pages serves the root directory of the `main` branch. All asset reference
 
 ## Updating resources
 
-Replace the disabled Code button with the official repository URL when implementation code is released. Add the confirmed publication venue and arXiv identifier to the page and citation when available.
+Replace the disabled Code button with the official repository URL when implementation code is released. The arXiv entry is 2610.29246. Add the publication venue when confirmed.
 
 Institutional marks are used to identify author affiliations. Shandong University mark source: https://www.sdu.edu.cn/images/logo.svg. Other marks are retained from the author’s PRISM project website.
+
+## arXiv release
+
+Paper: https://arxiv.org/abs/2610.29246. PDF: https://arxiv.org/pdf/2610.29246. Visible and downloadable citations include the arXiv identifier. Code remains coming soon.
